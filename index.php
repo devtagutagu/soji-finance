@@ -27,7 +27,7 @@ echo <<< EOT1
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>若林荘次専用　株価情報</title>
+  <title>若林荘次専用 株価情報 ver2</title>
   <link href="css/bootstrap.css" rel="stylesheet">
 
 <!--
