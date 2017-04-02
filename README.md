@@ -1,2 +1,0 @@
-# soji-finance
-test app
