@@ -1,0 +1,4 @@
+AuthName "Input ID & Password !"
+AuthType Basic
+AuthUserFile /etc/httpd/conf.d/.htpasswd
+Require valid-user
